@@ -52,6 +52,18 @@
   margin-bottom: 15px;
 }
 
+.recipe-ingredients {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+.recipe-steps {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 15px;
+}
+
 /* Add to favorites button */
 .add-to-favorites-button {
   display: block;
