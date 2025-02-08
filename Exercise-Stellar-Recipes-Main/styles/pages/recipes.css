@@ -17,7 +17,8 @@
 
 /* Individual recipe card styling */
 .recipe-container {
-  background-color: #f9f9f9;
+  text-align: center;
+  background-color: #c3e9f5;
   border-radius: 12px;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
   overflow: hidden;
@@ -25,6 +26,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  
 }
 
 .recipe-container:hover {
@@ -32,9 +34,20 @@
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
+/* Recipe image container */
+.recipe-image-container {
+  display: block;
+  margin: auto;
+  padding-top: 5px;
+  padding-left: 5px;
+  width: 75px;
+  height: 75px;
+  /* background-color: aqua; */
+}
+
 /* Recipe details */
 .recipe-details {
-  padding: 20px;
+  padding: 10px;
   text-align: center;
 }
 

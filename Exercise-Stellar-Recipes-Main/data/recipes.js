@@ -2,6 +2,7 @@ const recipes = [
   {
     id: "1",
     title: "Spaghetti Carbonara",
+    image: "images/food/spaghetti-carbonara.png",
     description: "A classic Italian pasta dish with eggs, cheese, pancetta, and pepper.",
     ingredients: [
       "Spaghetti",
@@ -21,6 +22,7 @@ const recipes = [
   {
     id: "2",
     title: "Avocado Toast",
+    image: "images/food/avocado-toast.png",
     description: "A quick and healthy breakfast option with avocado and toast.",
     ingredients: [
       "Bread",
@@ -38,6 +40,7 @@ const recipes = [
   {
     id: "3",
     title: "Chicken Alfredo",
+    image: "images/food/chicken-alfredo.png",
     description: "Creamy Alfredo sauce over tender chicken and fettuccine.",
     ingredients: [
       "Fettuccine",
@@ -58,6 +61,7 @@ const recipes = [
   {
     id: "4",
     title: "Caprese Salad",
+    image: "images/food/caprese-salad.png",
     description: "A fresh and simple Italian salad with mozzarella, tomatoes, and basil.",
     ingredients: [
       "Fresh Mozzarella",
@@ -78,6 +82,7 @@ const recipes = [
   {
     id: "5",
     title: "Chocolate Chip Cookies",
+    image: "images/food/chocolate-chip-cookies.png",
     description: "Classic cookies with gooey chocolate chips.",
     ingredients: [
       "All-Purpose Flour",
@@ -101,6 +106,7 @@ const recipes = [
   {
     id: "6",
     title: "Vegetable Stir Fry",
+    image: "images/food/vegetable-stir-fry.png",
     description: "A quick and healthy vegetable stir fry with soy sauce and garlic.",
     ingredients: [
       "Broccoli",
@@ -123,6 +129,7 @@ const recipes = [
   {
     id: "7",
     title: "Margherita Pizza",
+    image: "images/food/margherita-pizza.png",
     description: "Classic pizza with fresh mozzarella, basil, and tomato sauce.",
     ingredients: [
       "Pizza Dough",
@@ -142,6 +149,7 @@ const recipes = [
   {
     id: "8",
     title: "Beef Tacos",
+    image: "images/food/beef-tacos.png",
     description: "Flavorful beef tacos with fresh toppings.",
     ingredients: [
       "Ground Beef",
@@ -162,6 +170,7 @@ const recipes = [
   {
     id: "9",
     title: "Lemonade",
+    image: "images/food/lemonade.png",
     description: "Refreshing homemade lemonade.",
     ingredients: [
       "Lemons",
@@ -179,6 +188,7 @@ const recipes = [
   {
     id: "10",
     title: "Banana Pancakes",
+    image: "images/food/banana-pancakes.png",
     description: "Fluffy pancakes with ripe bananas.",
     ingredients: [
       "All-Purpose Flour",
