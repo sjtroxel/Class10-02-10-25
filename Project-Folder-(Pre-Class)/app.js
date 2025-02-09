@@ -6,7 +6,7 @@ const result = document.getElementById('result');
 
 // Event listener for the button
 button.addEventListener('click', () => {
-  const a = 5;
+  const a = 8;
   const b = 10;
 
   // Using imported functions (to be completed in mathUtils.js)
@@ -15,3 +15,4 @@ button.addEventListener('click', () => {
 
   result.textContent = `Sum: ${sum}, Product: ${product}`;
 });
+
